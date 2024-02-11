@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832412443486",
+    "project_id": "myappfilm",
+    "storage_bucket": "myappfilm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832412443486:android:720077310d469354bca5cf",
+        "android_client_info": {
+          "package_name": "com.erick.myappfilm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfM6Z1lYXJt_GOcX50iPRfaKop5_yV1Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
